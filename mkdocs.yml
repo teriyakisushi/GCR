@@ -10,7 +10,7 @@ nav:
     - 技术文章:
         - Python: 'python.md'
         - Java: 'java.md'
-    - 视频推荐: 'video.md'
+    - 学习资源: 'gcr.md'
     - 项目推荐: 'project.md'
     - 学习路线: 'roadmap.md'
     - 友链: 'friend.md'

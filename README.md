@@ -1,4 +1,4 @@
-# gcr:CNC-CMD知识共享平台
+# GCR:CNC-CMD知识共享平台
 Good computer resources(好的计算机资源)  
 CNC-CMD知识共享平台  
 任何人都可以在此仓库分享你所认为好的资源（文章、视频等），包括不限于计算机的均可。  

@@ -5,5 +5,31 @@
 注：如有侵权，请联系我们进行删除，谢谢。
 
 ## 快速开始
-先git pull拉下来，进行编辑后，git提交上去后，再'mkdocs gh-deploy '提交到GitHub Pages部署分支上即可
+```
+git clone https://github.com/cnc-cmd/GCR.git
+```
+1. 先git clone 本仓库
+2. 添加资源和进行修改
+3. 提交 pull request
+4. 等待合并
+5. 恭喜你，成为贡献者
 
+同时也请学习如下工具:  
+1. [git](https://git-scm.com/)  
+2. [github](https://github.com/)  
+3. [markdown](https://zh.wikipedia.org/wiki/Markdown)  
+4. [mkdocs](https://www.mkdocs.org/)  
+5. [mkdocs-material](https://squidfunk.github.io/mkdocs-material/)  
+6. [mkdocs-git-revision-date-localized-plugin](https://github.com/vaxsi/mkdocs-git-revision-date-localized-plugin)  
+7. [mkdocs-git-authors-plugin](https://github.com/vaxsi/mkdocs-git-authors-plugin)
+
+MkDocs基础命令:  
+1. 创建项目: ```mkdocs new [项目名]```  
+2. 启动服务: ```mkdocs serve```  
+3. 构建文档: ```mkdocs build```  
+4. 部署到GitHub Pages: ```mkdocs gh-deploy```  
+5. 查看帮助信息: ```mkdocs --help```
+
+### 贡献者
+1. [moonsky33](https://github.com/moonsky33)  
+2. [lim1t0722](https://github.com/lim1t0722)

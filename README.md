@@ -39,3 +39,8 @@ MkDocs基础命令:
 # 贡献者
 1. [moonsky33](https://github.com/moonsky33)  
 2. [lim1t0722](https://github.com/lim1t0722)
+
+| 贡献者姓名 | 头像 |
+| ---- | ---- |
+| moonsky33 |![https://github.com/moonsky33](https://avatars.githubusercontent.com/u/152702773?v=4) |
+| lim1t0722 |![https://github.com/lim1t0722](https://avatars.githubusercontent.com/u/110522531?v=4) |

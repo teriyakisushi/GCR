@@ -9,10 +9,11 @@
 git clone https://github.com/cnc-cmd/GCR.git
 ```
 1. 先git clone 本仓库
-2. 添加资源和进行修改
-3. 提交 pull request
-4. 等待合并
-5. 恭喜你，成为贡献者
+2. 添加资源和进行修改  
+3. 创建以自己名字的分支
+4. 提交 pull request
+5. 等待合并
+6. 恭喜你，成为贡献者
 
 同时也请学习如下工具:  
 1. [git](https://git-scm.com/)  

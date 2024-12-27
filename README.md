@@ -37,10 +37,8 @@ MkDocs基础命令:
 5. 查看帮助信息: ```mkdocs --help```
 
 # 贡献者
-1. [moonsky33](https://github.com/moonsky33)  
-2. [lim1t0722](https://github.com/lim1t0722)
 
-| 贡献者姓名 | 头像 |
-| ---- | ---- |
-| moonsky33 | <a href="https://github.com/moonsky33"><img src="https://avatars.githubusercontent.com/u/152702773?v=4" alt="moonsky33" width="100px" height="100px"></a> |
-| lim1t0722 | <a href="https://github.com/lim1t0722"><img src="https://avatars.githubusercontent.com/u/110522531?v=4" alt="lim1t0722" width="100px" height="100px"></a> |
+| 序号 | 贡献者姓名 | 头像 |
+| ---- | ---- | ---- |
+| 1 | moonsky33 | <a href="https://github.com/moonsky33"><img src="https://avatars.githubusercontent.com/u/152702773?v=4" alt="moonsky33" width="100px" height="100px"></a> |
+| 2 | lim1t0722 | <a href="https://github.com/lim1t0722"><img src="https://avatars.githubusercontent.com/u/110522531?v=4" alt="lim1t0722" width="100px" height="100px"></a> |

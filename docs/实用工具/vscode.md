@@ -1,0 +1,6 @@
+* Code Runner:[https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner):多种代码一键运行，方便省事    
+* Live Server:[https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer):本地服务器，方便调试    
+* Markdown All in One:[https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one):Markdown语法高亮，自动生成TOC，自动生成标题，自动生成链接，自动生成图片链接，自动生成代码块，自动生成表格，自动生成目录，自动生成TOC，自动生成标题，自动生成链接，自动生成图片链接  
+* Prettier:[https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode):代码格式化，自动格式化代码，自动修复代码格式问题。使用快捷键：Alt+Shift+F  
+* Eslint:[https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint):代码检查，自动检查代码  
+* Import Cost:[https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost):当导入 JavaScript 包时,提示代码大小  

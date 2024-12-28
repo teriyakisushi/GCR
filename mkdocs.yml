@@ -36,7 +36,9 @@ nav:
     - 实用工具:
       - git: '实用工具/git.md'
       - vscode插件: '实用工具/vscode.md'
-  - 学习资源: 'gcr.md'
+  - 学习资源: 
+    - 综合: '学习资源/gcr.md'
+    - 后端: '学习资源/backend.md'
   - 项目推荐: 'project.md'
   - 学习路线: 'LearnPath.md'
   - 友链: 'friend.md'

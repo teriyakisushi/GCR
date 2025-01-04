@@ -33,6 +33,7 @@ plugins:
 nav:
   - 主页: 'index.md'
   - 技术文章:
+    - 文章合辑: '技术文章/ArticleCollection.md'
     - 实用工具:
       - git: '实用工具/git.md'
       - vscode插件: '实用工具/vscode.md'

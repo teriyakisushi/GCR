@@ -9,9 +9,9 @@
 
 ## 计算机基础
 
-### [CS50](https://www.bilibili.com/video/BV1Rb411378V/?spm_id_from=333.337.search-card.all.click&vd_source=aa8117ebb5248a16558a89e966a57f27 "计算机基础")
+### [CS50](https://www.bilibili.com/video/BV1Rb411378V/ "计算机基础")
 
 
 ## C语言基础
 
-### [浙大翁恺](https://www.bilibili.com/video/BV1XZ4y1S7e1/?spm_id_from=333.337.search-card.all.click "C语言基础学习")
+### [浙大翁恺](https://www.bilibili.com/video/BV1XZ4y1S7e1/ "C语言基础学习")

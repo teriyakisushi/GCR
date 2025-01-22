@@ -54,7 +54,7 @@ MkDocs基础命令:
 5. 查看帮助信息: ```mkdocs --help```
 
 # 贡献者
-
+(注：排名不分先后，按最初贡献时间来定，后续贡献者将会在后面追加)  
 | 序号 | 贡献者姓名 | 头像 |
 | ---- | ---- | ---- |
 | 1 | moonsky33 | <a href="https://github.com/moonsky33"><img src="https://avatars.githubusercontent.com/u/152702773?v=4" alt="moonsky33" width="100px" height="100px"></a> |

@@ -11,7 +11,7 @@
 git clone https://github.com/cnc-cmd/GCR.git
 ```
 1. 先git clone 本仓库
-2. 添加资源和进行修改  
+2. fork本仓库添加资源和进行修改  
 3. 创建以自己名字的分支
 4. 提交 pull request
 5. 等待合并
@@ -47,7 +47,7 @@ MkDocs基础命令:
 5. 查看帮助信息: ```mkdocs --help```
 
 ### 贡献者
-
+(注：排名不分先后，按最初贡献时间来定，后续贡献者将会在后面追加)
 | 序号 | 贡献者姓名 | 头像 |
 | ---- | ---- | ---- |
 | 1 | moonsky33 | <a href="https://github.com/moonsky33"><img src="https://avatars.githubusercontent.com/u/152702773?v=4" alt="moonsky33" width="100px" height="100px"></a> |

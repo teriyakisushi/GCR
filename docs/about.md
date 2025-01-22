@@ -1,3 +1,1 @@
-# 关于
-
-RUN SUCCESS IF IT SHOWS
+# 归档

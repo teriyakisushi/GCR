@@ -17,7 +17,7 @@ git clone https://github.com/cnc-cmd/GCR.git
 ```
 1. 先git clone 本仓库
 2. fork本仓库，添加资源和进行修改
-3. 提交贡献
+3. 提交贡献、拉取请求
 4. 等待合并
 5. 恭喜你，成为贡献者  
 
